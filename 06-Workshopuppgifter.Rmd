@@ -1,0 +1,11 @@
+# Workshop Uppgifter {#workshopuppgifter}
+
+1. Bekanta dig med ChatGPT och se till att du kan logga in och prompta.   
+2. Kolla på lathunden.    
+3. Använd ChatGPT att sammanfatta en text. Sammanfattning ska vara nivåanpassad till just dina elever.   
+4. Använd ChatGPT att gå ifrån bullet points eller mötesanteckningar till flytande text.   
+5. Använd ChatGPT för att ta fram en sant/falskt test om ett moment inom ditt ämne. Se till att svaren finns med.    
+6. Använd ChatGPT för att ta fram ett flervals prov baserad på en mindre text. Se till att svaren finns med.   
+3. Få fram en tabell.   
+4. Försök att använda variabler i en prompt. Dessa sitter inuti [hakparentes] i själva prompten och sedan definieras i slutet av prompten.   
+5. (Kan du få in en ChatGPT tabell i ett Word dokument?)   

@@ -1,6 +1,6 @@
 # Exempel text till övningar  {#exempeltext}
 
-```{r eval=FALSE,tidy=TRUE}
+```{r eval=FALSE}
 Bernard Sadowvar en amerikansk familjefar i väskbranschen från
 delstaten Massachusetts. Som direktör vid bolaget US Luggage
 gick han till jobbet varje dag och fick betalt för att fundera på hur

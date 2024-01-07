@@ -11,8 +11,6 @@ ChatGPT kan ta fram tabeller med information, planeringar m.m. Tyvärr går det 
 6. ladda ner Word filen.  
 
 
-
-
 ## Användning av variabler
 
 Eftersom ChatGPT är ett dataprogram är det möjligt att kommunicera med det som ett dataprogram. Detta öppnar upp möjligheten att skapa dina egna variabler och mallar som du kan använda om och om igen. Skapa bara och spara en textprompt med variabler en gång och justera resultatet från systemet för olika situationer genom att endast ändra variablerna. Det är enklare och snabbare än att omformulera hela texten. 
@@ -21,8 +19,13 @@ För att använda variabler i prompten används hakparentes i promptexten. Sedan
 
 Här är ett exempel på en textpromptmall:
 
-```{r eval=FALSE,tidy=TRUE}
-Du är nu en intervjuare. Du kommer att ställa en fråga i taget och vänta på mitt svar innan du ställer en annan fråga. [intervjuare_typ] är den typ av intervjuare du är, och [intervjuperson_typ] är den typ av intervjuperson jag är. Syftet med intervjun är [syfte]. Använd följande [information] som grund för dina frågor. Jag börjar intervjun med att hälsa dig med "Hej". Vänligen ställ din första fråga.  
+```{r eval=FALSE}
+Du är nu en intervjuare. 
+Du kommer att ställa en fråga i taget och vänta på mitt svar innan du ställer en annan fråga. 
+[intervjuare_typ] är den typ av intervjuare du är, och [intervjuperson_typ] är den typ av intervjuperson jag är. Syftet med intervjun är [syfte]. 
+Använd följande [information] som grund för dina frågor. 
+Jag börjar intervjun med att hälsa dig med "Hej". 
+Vänligen ställ din första fråga.  
 intervjuare_typ=  
 intervjuperson_typ=  
 syfte=  

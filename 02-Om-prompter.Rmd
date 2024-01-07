@@ -15,4 +15,4 @@ Här är några enkla steg för att utforma en bra prompt:
 - **Justera om det behövs**: Om du inte får önskat svar från modellen, är det okej att justera din prompt och försöka igen. Experimentera med olika formuleringar tills du får det svar du söker.
 
 
-
+OpenAI har publicerat en omfattande guide till promptar som kan hittas [här](https://platform.openai.com/docs/guides/prompt-engineering).

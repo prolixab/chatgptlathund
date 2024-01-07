@@ -4,6 +4,7 @@
 2. [Exempel promptar för dig som lärare](#tilllarare)
 3. [Exempel promptar för dina elever.](#tillelever)
 4. [ Annat](#annat)
+5. [Workshop uppgifter](#workshopuppgifter)
 5. [Exempel text till övningar](#exempeltext)
 
 

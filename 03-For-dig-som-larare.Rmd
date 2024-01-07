@@ -1,27 +1,37 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
 # Exempel promptar för dig som lärare {#tilllarare}
 
 ## Planering och förberedelser​
 
-```{r eval=FALSE,tidy=TRUE}
-Kan du utifrån Gy11 skapa ett förslag på hur det centrala innehållet kan delas upp och undervisas i årskurs 1 på gymnasiet i ämnet historia?
+```{r eval=FALSE}
+Kan du utifrån Gy11 skapa ett förslag på hur det centrala innehållet
+kan delas upp och undervisas i årskurs 1 på gymnasiet i ämnet historia?
 ```
 
 ```{r eval=FALSE}
-Planera lektionsinnehåll 18 lektioner i historia per termin. Presentera resultatet i en tabell.
+Planera lektionsinnehåll 18 lektioner i historia per termin. 
+Presentera resultatet i en tabell.
 ```
 
 ## Lektionsmaterial 
 
 ```{r eval=FALSE}
-Kan du producera ett övningsformulär med tio frågor, där eleverna ska öva på vad som är sant eller falskt med den industriella revolutionen?
+Producera ett övningsformulär med tio frågor, där eleverna ska öva på vad som är sant eller falskt med den industriella revolutionen?
 ```
 
 ```{r eval=FALSE}
-Kan du sammanställa en tabell över olika åtgärder för att göra något åt den globala uppvärmningen? Få även med fördelar och nackdelar.
+Sammanställa en tabell över olika åtgärder för att göra något åt den globala uppvärmningen?
+Få även med fördelar och nackdelar.
 ```
 
 ```{r eval=FALSE}
-Kan du välutvecklat, specifikt och nyanserat berätta hur du som språkmodell kan hjälpa oss lärare att bättre struktuera, organisera och presentera information när vi ska hålla föreläsningar?
+Berätta välutvecklat, specifikt och nyanserat hur du som språkmodell kan hjälpa oss
+lärare att bättre struktuera, organisera och presentera information
+när vi ska hålla föreläsningar?
 ```
 ```{r eval=FALSE}
 Sammanfatta den här texten för en 16 åring:
@@ -40,11 +50,17 @@ Rätta språket i följande text:
 
 ```{r eval=FALSE}
 Vänligen anpassa denna text för läsare på Lexile-nivå 1000:      
-    Matematikinlärning illustreras som en utvecklingsprocess i riktning mot konkret-till-abstrakt av utbildningsteoretiker. Flera studier som grundas på denna tanke har genomförts tidigare. Denna studie syftade till att profilera landskapet av forskning som grundar sig på denna tanke, och som publicerades mellan 1968 och 2021. Bibliografiska data...
+    Matematikinlärning illustreras som en utvecklingsprocess i riktning mot
+konkret-till-abstrakt av utbildningsteoretiker. Flera studier som
+grundas på denna tanke har genomförts tidigare. Denna studie syftade
+till att profilera landskapet av forskning som grundar sig på denna tanke,
+och som publicerades mellan 1968 och 2021. Bibliografiska data...
 ```
 
 ```
-Du är en högstadielärare i nionde klass som testar dina elevers kunskaper om ämnet pjäsen 'Hamlet'. Föreslå 5 diskussionsfrågor för att hjälpa eleverna att förstå pjäsen.
+Du är en högstadielärare i nionde klass som testar dina elevers 
+kunskaper om ämnet pjäsen 'Hamlet'. 
+Föreslå 5 diskussionsfrågor för att hjälpa eleverna att förstå pjäsen.
 ```
 ## Examinerande uppgifter
 
