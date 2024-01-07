@@ -1,0 +1,54 @@
+# Exempel promptar för dina elever. {#tillelever}
+
+```{r eval=FALSE,tidy=TRUE}
+Kan du förklara [ämne]?
+```
+En användbar prompt för elever som vill ha förkla-ringar på ett specifikt ämne. Elever kan ersätta "[ämne]" med något som de vill ha förklarat, som till exempel "kemiska bindningar" eller "historiska händelser under andra världskriget".
+
+```{r eval=FALSE,tidy=TRUE}
+Vad är [begrepp]?
+  ```
+En annan användbar prompt för elever som vill ha en förklaring på ett specifikt begrepp. Elever kan ersätta "[begrepp]" med något som de vill ha för-klarat, som till exempel "symbios" eller "Pythagoras sats".
+
+```{r eval=FALSE,tidy=TRUE}
+Kan du ge mig ett exempel på [koncept]?
+```
+En användbar prompt för elever som vill ha exem-pel på ett specifikt koncept. Elever kan ersätta "[koncept]" med något som de vill ha exempel på, som till exempel "geometriska figurer" eller "enzymer".
+
+```{r eval=FALSE,tidy=TRUE}
+Hur gör man [uppgift]?
+```
+En användbar prompt för elever som behöver hjälp med att utföra en specifik uppgift eller räkneopera-tion. Elever kan ersätta "[uppgift]" med något som de vill ha hjälp med, som till exempel "multiplika-tion med decimaltal" eller "att skriva en argumente-rande text".
+
+```{r eval=FALSE,tidy=TRUE}
+Kan du visa mig en [typ av graf]?
+```
+En användbar prompt för elever som behöver hjälp med att skapa en specifik typ av graf. Elever kan ersätta "[typ av graf]" med något som de vill ha hjälp med, som till exempel "stapeldiagram" eller cirkeldiagram".
+
+```{r eval=FALSE,tidy=TRUE}
+Vad är den bästa metoden för att lära sig...
+```
+Används för att få förslag på den bästa metoden för att lära sig ett specifikt ämne.
+
+```{r eval=FALSE,tidy=TRUE}
+Kan du hjälpa mig att hitta bra studietips för ...
+```
+Används för att be mig om tips på hur man kan studera mer effektivt för ett specifikt ämne.
+
+```{r eval=FALSE,tidy=TRUE}
+Vad är en bra resurs för att lära sig mer om ...
+```
+Används för att få förslag på bra resurser som man kan använda för att lära sig mer om ett specifikt ämne.
+
+```{r eval=FALSE,tidy=TRUE}
+Kan du hjälpa mig att förstå den här uppgiften?
+```
+Används för att be mig om hjälp med att förstå en specifik uppgift som eleverna behöver lösa.
+
+```{r eval=FALSE,tidy=TRUE}
+Vilka är de viktigaste begreppen inom ...
+```
+Används för att få information om de viktigaste begreppen och termerna inom ett specifikt ämne.
+
+
+

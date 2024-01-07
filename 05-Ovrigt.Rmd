@@ -1,0 +1,49 @@
+# Annat {#annat}
+
+## Om tabeller
+
+ChatGPT kan ta fram tabeller med information, planeringar m.m. Tyvärr går det inte att kopiera och klistra dessa rakt in i Word. Tabeller skapas i en format som heter markdown, som inte kan läsas av Word. För att omvandla tabellen kan du göra så här:  
+1. kopiera tabellen i ChatGPT  
+2. öppna Anteckningar (Notepad) på din dator  
+3. klistra in tabellen - det som du får fram ser ut som text med många | karaktärer.  
+4. spara filen med filändelsen .md  
+5. ladda upp filen till en online tjänst som omvandlar markdown till word, t.ex. https://cloudconvert.com/md-to-docx  
+6. ladda ner Word filen.  
+
+
+
+
+## Användning av variabler
+
+Eftersom ChatGPT är ett dataprogram är det möjligt att kommunicera med det som ett dataprogram. Detta öppnar upp möjligheten att skapa dina egna variabler och mallar som du kan använda om och om igen. Skapa bara och spara en textprompt med variabler en gång och justera resultatet från systemet för olika situationer genom att endast ändra variablerna. Det är enklare och snabbare än att omformulera hela texten. 
+
+För att använda variabler i prompten används hakparentes i promptexten. Sedan definieras variablerna i slutet av prompten.
+
+Här är ett exempel på en textpromptmall:
+
+```{r eval=FALSE,tidy=TRUE}
+Du är nu en intervjuare. Du kommer att ställa en fråga i taget och vänta på mitt svar innan du ställer en annan fråga. [intervjuare_typ] är den typ av intervjuare du är, och [intervjuperson_typ] är den typ av intervjuperson jag är. Syftet med intervjun är [syfte]. Använd följande [information] som grund för dina frågor. Jag börjar intervjun med att hälsa dig med "Hej". Vänligen ställ din första fråga.  
+intervjuare_typ=  
+intervjuperson_typ=  
+syfte=  
+information=  
+
+Exempel värden:   
+intervjuare_typ= gymnasielärare i historia  
+intervjuperson_typ= gymnasieelev i historia     
+syfte= du ställer frågor i en muntlig historia examination  
+information=  fokusera på den Franska Revolutionen  
+```
+
+
+
+
+
+
+
+
+
+
+
+
+

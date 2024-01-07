@@ -1,0 +1,80 @@
+# Exempel text till övningar  {#exempeltext}
+
+```{r eval=FALSE,tidy=TRUE}
+Bernard Sadowvar en amerikansk familjefar i väskbranschen från
+delstaten Massachusetts. Som direktör vid bolaget US Luggage
+gick han till jobbet varje dag och fick betalt för att fundera på hur
+resväskor kunde göras bättre. Han var i fyrtioårsåldern och på väg
+hem till New York efter en familjesemester på Aruba. När han
+steg ur bilen hettade Beatrix Airport fortfarande Princess
+Beatrix Airport av den enkla anledningen att året var 1970. Prinsessan
+Beatrix hade ännu inte blivit drottning av Nederländerna
+och därmed Aruba, den holländska ön i Karibien åttahundra mil
+från Amsterdam.   
+
+Bernard Sadow hade flera resväskor med sig, detta hade som
+Isagt varit en familjesemester. En väska som var sjuttio centimeter
+hög kunde svälja runt tvåhundra liter packning och vägde vanligtvis
+omkring tjugofem kilo, men om du tog en i varje hand kunde
+du balansera vikten och vagga fram mot incheckningen.
+
+Detta var på den tiden när det gick att anlända till en flygterminal
+tjugo minuter innan avgång. De nästan sjuttio flygkapningar
+som skedde varje år i USA hade ännu inte resulterat i metall-
+detektorer och folk anställda för att hindra dig från att sätta dig
+på flyget med en pistol i bakfickan. Problemet som Bernard Sadow
+hade framför sig under den här hemresan var ett problem som
+världens stora flygplatser hade tillsatt särskilda kommittéer för
+att lösa. Passagerare blev svettiga och irriterade av att behöva bära
+sina väskor in i och ut ur avgångshallarna och genom de allt större
+terminalerna. Den hjälp som fanns här i början av 1970-talet var
+väskbärare, som mot en mindre ersättning tog hand om väskorna
+åt dig, samt ett intrikat system av bagagevagnar. Men först måste
+du naturligtvis ta dig in i avgångshallen - och väskbärare fanns
+långt ifrån överallt. Bernard Sadow gjorde därför vad människor
+i hög grad gjorde: han tog tag i handtagen på familjens resväskor
+och började bära dem.   
+
+Varför? Ja, det är frågan som Bernard Sadow kom att ställa sig
+just den här dagen. När han lite senare stod i kö för att passera
+tullen noterade han en man som antagligen arbetade på flygplatsen.
+Mannen drog en tung maskin efter sig på en plattform med
+hjul och lyckades snabbt runda Bernard Sadow som såg plattformens
+fyra hjul snurra mot flygplatsens golv. Bernard Sadow tittade
+ner på sina egna händer, på knogar som började vitna av hans grepp
+om handtagen, och sa plötsligt till sin hustru:
+- Jag vet vad resväskor behöver: hjul!      
+  
+Så kom det sig att Bernard Sadow när han kom hem skruvade
+av fyra ·hjul från en garderob. Han tog hjulen och satte fast dem på
+en resväska, sedan fäste han en rem av tyg vid ekipaget och drog
+lyckligt runt det där hemma. Detta var framtiden. Och han hade
+uppfunnit den.   
+
+Allt detta hände knappt ett år efter att NASA hade skjutit ut tre
+astronauter i den största raketen som någonsin hade byggts. Med
+en halv miljon liter fotogen, flytande syre och flytande väte hade
+Apollo II bränt sig fri från jordens dragningskraft. Astronauterna
+hade färdats genom rymden i en hastighet av drygt fyrtiotusen
+kilometer per timme, de hade gått in i månens svagare omloppsbana,
+kryssat ner genom det vindlösa mörkret och stigit ut i pudrig
+månsand som luktade som avfyrade fyrverkeripjäser.
+Men när Neil Armstrong, Buzz Aldrin och Michael Collins
+kom tillbaka till jorden lyfte de sina resväskor i handtag. Astronauterna
+bar som människan hade burit sedan den första moderna
+resväskan uppfanns någon gång i mitten av 1800-talet. Frågan är
+inte varför Bernard Sadow 1970 kom på att resväskor borde ha
+hjul. Frågan är varför vi inte hade kommit på det tidigare.
+```
+
+
+
+
+
+
+
+
+
+
+
+

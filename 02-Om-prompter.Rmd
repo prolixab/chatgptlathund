@@ -1,0 +1,18 @@
+# Om prompter {#omprompter}
+
+Dina instruktioner eller frågor till ChatGPT kallas prompter och när man ställer frågor så promptar man. ChatGPT fungerar som ett samtalstråd. Du kan ha flera trådar öppna samtidigt och du kan komma tillbaka till en tidigare tråd.
+
+Här är några enkla steg för att utforma en bra prompt:
+
+- **Skriv som om du pratar med en person**: Försök att formulera din prompt på ett sätt som om du pratar med en riktig person. Använd vanlig mänsklig språk och undvik onödiga tekniska termer eller komplicerade fraser.
+
+- **Var så tydlig som möjligt**: Se till att din prompt är tydlig och specificerar vad du vill ha. Om du till exempel vill ha information om bästa sättet att laga spaghetti, skriv något som "Kan du ge mig tips på hur man lagar den bästa spaghettin?"
+
+- **Undvik ledande eller negativa frågor**: Försök att undvika att använda frågor som är ledande eller innehåller negationer (till exempel "Kan du inte berätta för mig hur man gör det?"). Det kan ibland förvirra modellen.
+
+- **Använd fler ord om det behövs**: Om din prompt är för kort eller vag, kan modellen ge dig mindre tillfredsställande svar. Var beredd att inkludera några fler ord för att göra din begäran tydligare.
+
+- **Justera om det behövs**: Om du inte får önskat svar från modellen, är det okej att justera din prompt och försöka igen. Experimentera med olika formuleringar tills du får det svar du söker.
+
+
+

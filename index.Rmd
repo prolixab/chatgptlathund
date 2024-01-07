@@ -1,0 +1,21 @@
+--- 
+title: "ChatGPT Lathund"
+author: "Andrew Galbraith"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "ChatGPT Lathund"
+---
+
+# Innehåll
+
+1. [Om prompter](#omprompter)
+2. [Exempel promptar för dig som lärare](#tilllarare)
+3. [Exempel promptar för dina elever.](#tillelever)
+4. [ Annat](#annat)
+5. [Exempel text till övningar](#exempeltext)
